@@ -32,7 +32,7 @@
     <br>
     <br>
     <br>
-    <button onclick="ct()BUTTON</button>
+    <button onclick="ct()>BUTTON</button>
 
     <script>
       function ct() {
